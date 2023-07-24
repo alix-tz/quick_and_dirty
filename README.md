@@ -1,1 +1,1 @@
-# quick_and_dirty
+# Quick and dirty
